@@ -1,0 +1,22 @@
+body
+{
+
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.heading h3{
+    display: inline;
+}
+
+#start ,#status{
+    font-size: 22px;
+}
